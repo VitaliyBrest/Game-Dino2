@@ -12,10 +12,10 @@
 
 
 #character{
-    width: 50px;
-    height: 50px;
-    background-image: url(image/dino.png);
-    background-size: 50px 50px;
+    width: 100px;
+    height: 100px;
+    background-image: url(https://st.depositphotos.com/1008522/1840/v/950/depositphotos_18400609-stock-illustration-cute-tyrannosaurus-rex-dinosaur-t.jpg);
+    background-size: 100px 100px;
     position: relative;
     top: 150px;
 
@@ -34,7 +34,7 @@
 #block{
     width: 50px;
     height: 50px;
-    background-image: url(image/cactus.png);
+    background-image: url(https://i.pinimg.com/originals/83/2f/00/832f0028dc0019299d37579f7c82571c.png);
     background-size: 50px 50px;
     position: relative;
     top: 100px;
